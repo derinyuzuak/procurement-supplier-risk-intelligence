@@ -62,7 +62,7 @@ The notebooks contain the analysis; SQL files expose the principal metric logic;
 
 ## Interactive review dashboard
 
-The [interactive review dashboard](dashboard/index.html) runs entirely in the browser from anonymized derived results. Select a supplier to inspect observed value, risk components, dependency, commercial evidence and the associated management-review hypothesis.
+The [interactive review dashboard](https://derinyuzuak.github.io/procurement-supplier-risk-intelligence/) runs entirely in the browser from anonymized derived results. Select a supplier to inspect observed value, risk components, dependency, commercial evidence and the associated management-review hypothesis.
 
 ```powershell
 python -m http.server 8765
