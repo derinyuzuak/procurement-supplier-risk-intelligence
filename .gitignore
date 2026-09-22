@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+work/
+data/private/*
+!data/private/.gitkeep
+*.sqlite
+*.db
+*.log
+.DS_Store
+
+# Local legacy outputs deliberately excluded from the public project.
+executive/
+visuals/executive_exposure_matrix.png

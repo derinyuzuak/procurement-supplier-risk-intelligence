@@ -1,0 +1,18 @@
+{
+  "source_rows": 10324,
+  "eligible_external_supplier_rows": 4920,
+  "scored_suppliers": 10,
+  "observed_value_usd": 542212022.3399999,
+  "delivery_comparison_coverage": 0.9997967479674796,
+  "comparable_line_coverage": 0.225,
+  "source_period": {
+    "start": "2006-05-02",
+    "end": "2015-12-31"
+  },
+  "action_counts": {
+    "PROTECT": 4,
+    "RENEGOTIATE": 3,
+    "DEVELOP": 2,
+    "DIVERSIFY": 1
+  }
+}

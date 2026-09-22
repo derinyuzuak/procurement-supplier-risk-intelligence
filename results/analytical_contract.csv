@@ -1,0 +1,9 @@
+business_concept,status,evidence_and_limit
+Financial exposure,SUPPORTED,"Positive line-item value has complete coverage; interpreted as observed value, not organizational spend."
+Supplier concentration,SUPPORTED,Vendor and line-item value are present; intermediary-labelled rows are excluded from supplier action analysis.
+Product/category dependency,SUPPORTED,Item description and value support vendor share within observed item descriptions.
+Comparable unit-price variance,CONDITIONAL,"Only exact product-form-pack-country-year cohorts with at least two vendors are compared. This is a benchmark signal, not a savings estimate."
+Schedule adherence proxy,CONDITIONAL,"Scheduled and delivered dates are populated, but source guidance cautions against direct lead-time conclusions. Used as a shipment-level proxy, not a supplier SLA claim."
+Lead-time risk,UNSUPPORTED,PO date coverage is incomplete and source guidance warns against direct lead-time conclusions.
+Quality risk,UNSUPPORTED,"No verified quality, rejection, or defect field."
+Compliance risk,UNSUPPORTED,No verified compliance or contract-performance field.
