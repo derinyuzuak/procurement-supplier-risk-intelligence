@@ -1,5 +1,9 @@
 # Procurement Spend & Supplier Risk Intelligence
 
+**[Open the interactive supplier review](https://derinyuzuak.github.io/procurement-supplier-risk-intelligence/)**
+
+Explore portfolio exposure, observable risk and supplier-level evidence in the browser.
+
 **Which supplier relationships deserve management attention first?**
 
 *Historical USAID SCMS shipment & pricing data | 2006-2015*
